@@ -1,0 +1,16 @@
+{
+  "plans": [
+    {
+      "id": 0,
+      "name": "Basic",
+      "benefits": "Waste time and money",
+      "price": 1
+    },
+    {
+      "id": 1,
+      "name": "Premium",
+      "benefits": "Waste time and MORE money",
+      "price": 2
+    }
+  ]
+}
